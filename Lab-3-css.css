@@ -1,0 +1,32 @@
+body {background: hsla(303, 85%, 34%, 1);}
+h1 {color: red;
+background: #000000;
+font-size: 50px;
+text-align: center;
+}
+
+h2 {color: rgb(255,255,255);
+  background: hsl(120,100%,50%);
+  font-weight: bold;
+  text-decoration: underline;}
+h3 {color: yellow;
+    font-style: italic;
+    line-height: 1.35;
+    word-spacing: .75em;}
+p {color: hsla(43,100%,50%,1);
+   font-variant:caps;}
+ul {color: rgba(204,0,255,1);
+   letter-spacing: 0.0625em;
+   }
+ol {color:lightgray;
+  background: hsl(0,0%,100%);
+  letter-spacing: 0.0625em;}
+em {text-transform: lowercase;}
+strong {text-shadow: 1px 1px 1px #000;}
+
+
+
+
+
+
+
