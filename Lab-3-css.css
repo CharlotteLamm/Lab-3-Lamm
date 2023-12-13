@@ -1,12 +1,12 @@
-body {background: hsla(303, 85%, 34%, 1);}
+body {background-color: hsla(303, 85%, 34%, 1);}
 h1 {color: red;
-background: #000000;
+background-color: #000000;
 font-size: 50px;
 text-align: center;
 }
 
 h2 {color: rgb(255,255,255);
-  background: hsl(120,100%,50%);
+  background-color: hsl(120,100%,50%);
   font-weight: bold;
   text-decoration: underline;}
 h3 {color: yellow;
@@ -19,7 +19,7 @@ ul {color: rgba(204,0,255,1);
    letter-spacing: 0.0625em;
    }
 ol {color:lightgray;
-  background: hsl(0,0%,100%);
+  background-color: hsl(0,0%,100%);
   letter-spacing: 0.0625em;}
 em {text-transform: lowercase;}
 strong {text-shadow: 1px 1px 1px #000;}
